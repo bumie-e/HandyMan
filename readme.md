@@ -1,3 +1,5 @@
+# Handyman
+
 HandyMan is a web assistant that helps you translate between any of the supported languages. 
 It automatically detects the lanuage your text is written in and translates it to your required language.
 
@@ -11,7 +13,7 @@ Choose one of these language to get started :smiley:
 - Korean
 - Spanish
 
-To run this repository,
+### To run this repository,
 
 - Clone the repository
 - Open your terminal and navigate to the project directory
@@ -25,5 +27,5 @@ To run this repository,
  `LOCATION: <Your location here>`
 
 - Add the `.env` file to the project directory
-- in your terminal, type `streamlit run app.py`
+- In your terminal, type `streamlit run app.py`
 

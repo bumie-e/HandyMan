@@ -16,7 +16,9 @@ st.write(""" Hey :wave:
 HandyMan is a web assistant that helps you translate between any of the supported languages. 
 It automatically detects the lanuage your text is written in and translates it to your required language.
 
-Choose a language to get started :smiley: :flag-fr: :flag-it: :flag-jp: :ru: :flag-es: """)
+Choose a language to get started :smiley: 
+
+:flag-fr: :flag-it: :flag-jp: :ru: :flag-es: """)
 
 # A scrollable side bar showing past translations
 
